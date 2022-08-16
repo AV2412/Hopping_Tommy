@@ -12,13 +12,22 @@ L2- elements separated by spaces
 Sample Input
 
 2
- 5
- 500 502 430 536 992
- 4
- 1002 601 539 1193
+
+5
+
+
+500 502 430 536 992
+
+
+4
+
+
+1002 601 539 1193
 
 
 Sample Output
+
+
 6
 
 8
